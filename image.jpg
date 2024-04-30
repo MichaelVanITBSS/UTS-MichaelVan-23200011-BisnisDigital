@@ -1,0 +1,3 @@
+git add gambar.jpg
+git commit -m "Menambahkan gambar"
+git push origin master
